@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\MINHAJUL ISLAM.DESKTOP-VOB440U\Documents\LTspice\subtractor.asc
+Start Time: Tue Dec  9 20:43:58 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 5.074 seconds.
+
